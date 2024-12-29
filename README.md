@@ -23,3 +23,21 @@ In regard to the excel doc, at some point I will probably protect the cells you 
 I want to explicitly thank **EliwoodTachi** for sharing his original work with me. None of this would be possible if the community wasn't awesome!
 
 ![](images/screenshot.png)
+
+## What does this Army/Warband Builder sheet do for you?
+
+I have a number of auto-calculation formulas in place where information is populated on the Warband Sheet for quick reference.
+For example:
+
+- When you select a Faction, the Reserve Warband tab drop down menus show you only the models you can use.
+
+- After you select one the information about that model is populated for you.
+
+- Same with equipment in the Reserve Wargear tab.
+
+- While you select items in the Reserve Warband or Reserve Wargear the costs are automatically deducted from your Ducets and Glory.
+- Finally, on the first tab Warband Sheet, you select the Troops and Elites that you have selected in your Reserve, that you want to play with. Their information auto-populates.
+
+I am working to make sure that all items display what rulebook version they come from, to make it easier to update as newer rules come out. 
+
+As of right now only the troops have this information on the faction tabs.
