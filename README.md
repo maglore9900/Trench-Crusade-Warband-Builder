@@ -1,6 +1,6 @@
-# Trench Crusade Army Builder
+Trench Crusade Warband Builder
 
-In this repo is an excel sheet that helps you build a warband/army for Trench Crusade. I built it for myself, and am sharing it with the community.
+In this repo is an excel sheet that helps you build a warband for Trench Crusade. I built it for myself, and am sharing it with the community.
 
 ## What is Trench Crusade
 
@@ -24,7 +24,7 @@ I want to explicitly thank **EliwoodTachi** for sharing his original work with m
 
 ![](images/screenshot.png)
 
-## What does this Army/Warband Builder sheet do for you?
+## What does this Warband Builder sheet do for you?
 
 I have a number of auto-calculation formulas in place where information is populated on the Warband Sheet for quick reference.
 For example:
