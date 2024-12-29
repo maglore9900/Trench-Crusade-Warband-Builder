@@ -1,4 +1,6 @@
-Trench Crusade Warband Builder
+![](images/title.png)
+
+# Trench Crusade Warband Builder
 
 In this repo is an excel sheet that helps you build a warband for Trench Crusade. I built it for myself, and am sharing it with the community.
 
